@@ -1,5 +1,5 @@
 # ZhaZongChat
-## 闸总聊天——JavaSE项目网络聊天室+用户管理系统
+## 闸总聊天室——JavaSE项目网络聊天室+用户管理系统
 
 *此项目采用C/S架构，MVC模式，GUI界面采用swing和AWT，分为2个项目文件，客户端zhazongchatclient，服务端zhazongchatserver。*
 
