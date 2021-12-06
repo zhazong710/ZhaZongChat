@@ -3,7 +3,7 @@
 
 *此项目采用C/S架构，MVC模式，GUI界面采用swing和AWT，分为2个项目文件，客户端zhazongchatclient，服务端zhazongchatserver。*
 
-***基于swing、AWT、I/O流、多线程、socket、常用集合框架、反射机制、JDBC、饿汉式单例模式***
+***基于swing、AWT、I/O流、多线程、socket、常用集合类、反射机制、JDBC、饿汉式单例模式***
 
 **开发环境JDK1.8，MySQL5.7，mysql-connector-java-5.1.47**
 
